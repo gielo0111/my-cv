@@ -1,0 +1,259 @@
+%-------------------------
+% Resume in Latex
+% Author : Gielo
+% Website: https://github.com/gielo0111/my-cv
+% License : MIT
+% https://www.overleaf.com/project/6a2ced5d5daa1c3d4120a6d3
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[
+    pdftex,
+    colorlinks=true,
+    urlcolor=RoyalBlue,
+    linkcolor=RoyalBlue,
+    citecolor=RoyalBlue
+]{hyperref}
+\usepackage{fancyhdr}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.375in}
+\addtolength{\evensidemargin}{-0.375in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titrule \vspace{-5pt}]
+
+\newcommand{\titrule}{\rule[0.5ex]{\linewidth}{1pt}} % horizontal rule for section titles
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{: #2 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-4pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  CV STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \textbf{\Large Gielo Joseph Fernandez} & Email : \href{mailto:gielo0111@gmail.com}{gielo0111@gmail.com}\\
+  Auckland, New Zealand & Mobile : (+64) 22 153 5568 \\
+  \href{https://www.linkedin.com/in/gielojoseph}{linkedin.com/in/gielojoseph} | \href{https://github.com/gielo0111}{github.com/gielo0111} & Visa: Post Study Work Visa (Until May 2029)
+\end{tabular*}
+
+
+%-----------PROFESSIONAL SUMMARY-----------------
+\section{Professional Summary}
+  \resumeSubHeadingListStart
+    \item\small{
+  Automation Test Engineer with 6+ years of experience across software testing, quality assurance, and test automation. Strong expertise in both manual and automated testing (WebDriverIO, Selenium), with a track record of designing comprehensive test strategies for enterprise platforms. Prior experience testing within financial services (Manulife/John Hancock), with working knowledge of C\#/.NET and API testing. Available to start in 2 weeks with full NZ work rights until 2029.
+}
+  \resumeSubHeadingListEnd
+
+
+%-----------KEY HIGHLIGHTS-----------------
+\section{Key Highlights}
+  \resumeSubHeadingListStart
+    \item{
+  \textbf{Impact:} 10+ hours saved per release | 99.99\% data accuracy | 100\% test coverage | Regression testing across enterprise systems
+}
+\item{
+  \textbf{Scale:} Enterprise platforms serving 10,000+ users | Mission-critical systems
+}
+\item{
+  \textbf{Automation Tools:} WebDriverIO, Selenium, Playwright (familiar) | REST API Testing | Manual \& Automated Testing
+}
+\item{
+  \textbf{AI \& Testing Tools:} GitHub Copilot, Replit AI, ChatGPT/Claude | WebDriverIO, Selenium, Jira
+}
+\item{
+  \textbf{Tech Stack:} JavaScript, TypeScript, Python, C\#, SQL, CI/CD Pipelines, Azure
+}
+\item{
+  \textbf{Availability:} Available to start in 2 weeks | Full NZ work rights until 2029
+}
+  \resumeSubHeadingListEnd
+
+
+%-----------EXPERIENCE-----------------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Orcas Consulting Ltd.}{Raglan, New Zealand}
+      {Software Engineer Intern}{Nov. 2025 -- Feb. 2026}
+      \resumeItemListStart
+        \resumeItem{Industrial Data Platform (Time-Series Analytics)}
+          {Built a data platform for marine location analytics, processing time-series tidal data for forecasting applications serving fishermen and surfers. Available at: \url{https://www.rippleforecast.com/tide}}
+        \resumeItem{Data Engineering \& ETL Pipelines}
+          {Engineered Python-based ETL pipelines to scrape and process structured data from third-party sources, eliminating 20+ hours of manual collection.}
+        \resumeItem{Optimized Map function loading speed by 4x}
+          {Optimized data visualization by implementing Map Marker Clustering, achieving 4x faster rendering for thousands of real-time data points.}
+        \resumeItem{Reduced File Storage Size by over 90\%}
+          {Converted large time-series GEO-JSON datasets into compressed ZARR format, reducing storage by 90\% and improving retrieval efficiency for time-based queries.}
+        \resumeItem{AI-Assisted Development \& Testing}
+          {Leveraged Replit AI and GitHub Copilot to accelerate development and testing cycles, cutting prototype turnaround times by 40\% and improving test automation efficiency for cloud-based features.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Evidentful}{Cromwell, New Zealand}
+      {Junior AI Engineer Intern}{Dec. 2024 -- Mar. 2025}
+      \resumeItemListStart
+        \resumeItem{AI-Powered Testing \& Search Solutions}
+  {Built proof-of-concept for AI-powered search using hybrid keyword and vector retrieval. Applied AI-driven approaches to data discovery and natural language query processing, demonstrating ability to work with AI/agentic technologies.}
+\resumeItem{Data Processing Workflows}
+  {Implemented vector search workflows to improve the system's ability to process and retrieve information from natural language queries.}
+\resumeItem{Containerization \& Deployment}
+  {Containerized applications using Docker to ensure consistent development, testing, and deployment environments across internal projects.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Manulife / John Hancock}{Makati, Philippines}
+      {Full Stack Software Engineer}{Aug. 2021 -- Sept. 2024}
+      \resumeItemListStart
+        \resumeItem{Full-Stack Architecture}
+  {Developed and deployed enterprise-grade features across microservices, REST APIs, and React-based UIs, serving 10,000+ policyholders on a transactional insurance platform. \url{https://www.coverme.com/travel-insurance/get-a-quote}}
+        \resumeItem{ETL \& Data Engineering}
+  {Engineered daily ETL pipelines processing \$10,000+ in financial transactions, implementing reconciliation logic that eliminated force-balance errors and achieved 99.99\% data accuracy.}
+        \resumeItem{Client Support \& Maintenance}
+  {Managed website support tickets and performed routine maintenance, resolving client-reported issues and implementing feature enhancements with a focus on attention to detail and timely delivery.}
+        \resumeItem{Frontend Performance Optimization}
+  {Optimized client-side performance by 25\% through React/Redux state management, code splitting, and lazy loading, directly improving user conversion rates.}
+        \resumeItem{Testing Strategy \& Execution}
+  {Designed comprehensive test strategies covering functionality, performance, and regression testing for enterprise COTS insurance platform. Leveraged AI tools (GitHub Copilot) to accelerate test case generation and maintained clear documentation of test outcomes}
+        \resumeItem{Agile Leadership}
+  {Served as acting Scrum Master for a cross-functional team, facilitating sprint planning, daily stand-ups, and retrospectives to improve delivery velocity and team alignment.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Denso Ten Solutions}{Pasig City, Philippines}
+      {Software Quality Engineer}{Aug. 2018 -- July 2021}
+      \resumeItemListStart
+        \resumeItem{Manual \& Automated Testing}
+  {Designed and executed comprehensive test cases for automotive ECU components, ensuring 100\% test coverage and compliance with functional safety requirements. Performed integration, regression, and system testing.}
+\resumeItem{Test Automation}
+  {Engineered MATLAB-based scripts to automate test input generation and output validation, improving test coverage and verification accuracy by 30\%.}
+\resumeItem{Defect Tracking \& Reporting}
+  {Identified, documented, and tracked software defects using Eclipse and system log tracking tools, providing clear feedback to developers for timely resolution.}
+\resumeItem{Quality Documentation}
+  {Authored comprehensive test documentation and system configuration guides, reducing troubleshooting times by 40\% and accelerating team onboarding.}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+
+%-----------PROJECTS-----------------
+\section{Projects}
+  \resumeSubHeadingListStart
+    \resumeSubItem{RippleForecast Tides (Internship Project, 2026)}
+  {Built a time-series data platform processing tidal data for forecasting applications. Engineered Python ETL pipelines, optimized large datasets, and delivered real-time visualizations. \url{https://www.rippleforecast.com/tide}}
+\resumeSubItem{CoverMe Travel Insurance (Enterprise Project, 2023)}
+  {Full-stack transactional platform with automated quote computations serving 10,000+ policyholders. \url{https://www.coverme.com/travel-insurance/get-a-quote}}
+\resumeSubItem{SQL Analytics Dashboard (Personal Project, 2026)}
+  {Designed relational databases and built interactive dashboards using Streamlit for data visualization. \url{https://gielofernandez-sql-project.streamlit.app/}}
+  \resumeSubHeadingListEnd
+
+
+%-----------EDUCATION-----------------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Future Skills Academy International}{Auckland, New Zealand}
+      {Master of Applied Management; Major in Business Information Systems}{Oct. 2024 -- Apr. 2026}
+    \resumeSubheading
+      {University of Santo Tomas}{Manila, Philippines}
+      {Bachelor of Science in Computer Science}{June 2012 -- July 2017}
+  \resumeSubHeadingListEnd
+
+
+%--------TECHNICAL SKILLS------------
+\section{Technical Skills}
+ \resumeSubHeadingListStart
+   \item{
+     \textbf{Programming Languages}{: JavaScript, TypeScript, Python, C\# (working knowledge), SQL, HTML, CSS}
+   }
+   \item{
+     \textbf{Backend \& Data Engineering}{: Python, C\#, SQL (SQL Server, T-SQL), ETL Pipelines, Data Processing, Scripting}
+   }
+   \item{
+     \textbf{Frontend \& UX}{: React, TypeScript, JavaScript, HTML5, CSS, XML, JSON, Responsive UI, UX Design Principles}
+   }
+   \item{
+     \textbf{Databases}{: SQL Server, T-SQL, Stored Procedures, Query Optimization, NoSQL, CosmosDB, Time-Series Data}
+   }
+   \item{
+     \textbf{DevOps \& Cloud}{: Microsoft Azure (AZ-900 Certified), Docker, Git, CI/CD Pipelines}
+   }
+   \item{
+     \textbf{Testing \& QA}{: WebDriverIO, Manual Testing, Automated Testing, Regression Testing, Integration Testing, REST API Testing, Test Case Design, Test Strategy, Defect Tracking, Exploratory Testing}
+}
+    \item{
+    \textbf{Automation Tools}{: WebDriverIO, Selenium, Playwright (working knowledge), RestSharp (familiar)}
+}
+   \item{
+     \textbf{Methodologies}{: Agile, Scrum (Scrum Master), Jira, Confluence, System Configuration, Full SDLC}
+   }
+   \item{
+  \textbf{Agentic/AI Testing}{: GitHub Copilot, Replit AI, ChatGPT/Claude, AI-Assisted Test Generation, Agentic Workflows, Model Context Protocol (working knowledge)}
+}
+ \resumeSubHeadingListEnd
+
+%--------CERTIFICATIONS & LANGUAGES------------
+\section{Certifications \& Languages}
+  \resumeSubHeadingListStart
+    \item{
+      \textbf{Certifications: } Datacamp AI Fundamentals (2025), Microsoft Certified Azure Fundamentals AZ-900 (2023), AutoCAD Training (2018)
+    }
+    \item{
+      \textbf{Languages: } English (Fluent), Japanese (JLPT N4), Korean (Basic)
+    }
+  \resumeSubHeadingListEnd
+
+\end{document}

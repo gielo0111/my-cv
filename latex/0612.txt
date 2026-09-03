@@ -1,0 +1,136 @@
+Gielo Joseph Fernandez
+Auckland, New Zealand
+New Zealand #:(+64) 22 153 5568
+Email: gielo0111@gmail.com 
+LinkedIn: https://www.linkedin.com/in/gielojoseph GitHub: https://github.com/gielo0111
+Visa Status: New Zealand Post Study Work Visa (Full Work Rights Until 2029) 
+
+
+Professional Summary
+
+Software Engineer with over 6 years of experience in Software development ranging from verifying complex systems such as Car’s ECU parts and insurance Technology SaaS platforms. Experienced tester doing manual testing with the use of Excel, Eclipse, and Matlab to confirm compliance with customer specifications. I also have experience in building end-to-end automation tests using WebDriverIO library to provide reusable test cases for future use. 
+
+Recently completed a Master of Applied Management in NZ, combining advanced technical skills in TypeScript, Node.js, and Python with a strategic business mindset. Currently on a 3-year Post-Study Work Visa and available to start with 2 weeks notice.
+
+Projects
+
+RippleForecast Tides (Internship Project) https://rippleforecast.com/tide
+CoverMe (Company Project): https://www.coverme.com/travel-insurance/get-a-quote
+SQL Portfolio (Solo Project): https://gielofernandez-sql-project.streamlit.app/
+TobyGieloPeds (College Project): https://gielo0111.github.io/LagLife_of_Toby_Peds_Gielo/
+Punta Riviera Resort (College Project): https://gielo0111.github.io/Punta_Riviera_Resort/
+Predict Employee Attrition /w Logistic Regression (Master’s Coursework): https://www.kaggle.com/code/gelojoseph/predict-employee-attrition-w-logistic-regression
+
+Employment Summary
+
+Orcas Consulting Ltd., Raglan, New Zealand	November 2025 – February 2026
+Software Engineer Intern		
+
+Tasks and Responsibilities:
+Developed Python-based web scraping pipelines to automate the extraction of structured data from third-party sources, reducing manual data collection effort and enabling scalable data ingestion.
+Integrated the Overpass API to retrieve and process geospatial coordinates, supporting location-based analysis and improving data accuracy for internal tools.
+Contributed to the development of the company’s new website using modern web technologies, enhancing usability and aligning with business requirements.
+Researched and evaluated geospatial data compression techniques (GeoJSON vs Zarr) to optimize storage and performance when handling large, complex datasets.
+Utilized Replit for rapid prototyping, testing, and collaborative development.
+Key achievement: RippleForecast Tides Page https://rippleforecast.com/tide - April 30, 2026
+
+Evidentful, Cromwell, New Zealand	December 2024 – March 2025
+Junior AI Engineer Intern		
+
+Tasks and Responsibilities:
+Analyzed existing system architecture (frontend and backend) to identify performance and scalability improvement opportunities, delivering actionable recommendations to the development team.
+Designed and built a proof-of-concept for AI-powered search using hybrid (keyword + vector) retrieval with Meilisearch, demonstrating enhanced relevance and semantic search capabilities.
+Implemented vector search workflows to explore embedding-based retrieval, improving the system’s ability to handle natural language queries.
+Containerized applications using Docker to ensure consistent development and deployment environments across projects.
+
+Manulife/John Hancock, Makati, Philippines	August 2021 – September 2024
+Full Stack Software Engineer		
+
+Tasks and Responsibilities:
+Designed, developed, and maintained full-stack applications, delivering new features across APIs, UIs, and backend services throughout the software development lifecycle.
+Collaborated with stakeholders to translate business requirements into technical solutions, refining specifications to ensure alignment with system capabilities and user needs.
+Led Agile ceremonies as acting Scrum Master, facilitating sprint planning, stand-ups, reviews, and retrospectives to improve team delivery and communication using Jira for documentation and Teams for communication.
+Identified process inefficiencies and proposed improvements to development workflows, contributing to more streamlined and effective engineering practices.
+Built and maintained reporting pipelines for daily accounting reports, ensuring data accuracy by resolving inconsistencies (e.g., force balance, tolerance issues).
+Diagnosed and resolved frontend and backend issues, improving system stability and reducing production defects.
+Contributed to system architecture and documentation, supporting scalability and maintainability of enterprise applications.
+Applied Agile methodologies to manage tasks, prioritize deliverables, and support iterative development in a cross-functional team environment..
+Delivered responsive UI design, prominent frontend framework such as React or Vue, state management, asynchronous API calls, authentication and single page application.
+Turned emerging technologies into practical, scalable solutions, while applying strong engineering standards and a quality-first mindset.
+Designed, and maintained robust automated test frameworks and scripts to support scalable and repeatable testing across cloud applications using WebdriverIO library.
+Translated user stories, acceptance criteria, and technical requirements into comprehensive test cases and test scenarios.
+Contribute to testing strategies and test plans, perform end to end testing, regression testing, analyzed test results.
+Key achievement: Go Live https://www.coverme.com/travel-insurance/get-a-quote - October 2, 2023
+
+Denso Ten Solutions, Pasig City, Philippines	August 2018 – July 2021
+Software Tester		
+
+Tasks and Responsibilities:
+Designed and executed manual test cases based on system specifications, ensuring software quality and alignment with functional requirements.
+Utilized MATLAB to generate test inputs and expected outputs, improving test coverage and validation accuracy.
+Built and configured testing environments using IBM Eclipse to support reliable and repeatable validation processes.
+Identified, debugged, and documented defects using Eclipse, contributing to faster issue resolution and improved system stability.
+Tracked and reported defects, ensuring timely resolution and clear documentation for future reference and regression testing.
+Collaborated with cross-functional teams and participated in regular progress reporting, supporting transparency and on-time delivery of project milestones.
+Contributed to continuous improvement initiatives and internal knowledge sharing within the team.
+Communicated with clients and prepared technical documentation in Japanese, supporting international collaboration and requirement clarity..
+Validated resolved defects, enhancements, and newly delivered features to ensure they meet quality standards and do not introduce regressions.
+
+Trend Micro, Inc., Pasig City, Philippines	July 2017 – January 2018
+Core Tech Engineer Trainee
+
+Tasks and responsibilities:
+Completed intensive training in low-level systems and cybersecurity, focusing on assembly programming and reverse engineering techniques.
+Analyzed malware behavior and contributed to pattern/signature creation for threat detection and classification.
+Investigated web and email-based threats, including spam and malicious URLs, to understand real-world attack vectors.
+Utilized tools such as VMware, OllyDbg, and Hiew to safely analyze and debug malicious binaries in controlled environments.
+Performed dynamic and static analysis using sandboxing and system tracing tools to observe malware execution and system impact.
+
+Rogomi, Inc, Pasig City, Philippines	May 2015 – July 2015
+Intern
+
+Tasks and responsibilities:
+Documented mobile application features and workflows to support development and QA processes.
+Performed initial quality assurance testing, identifying and reporting defects to improve application stability.
+Completed training in Android development using Android Studio and Java, building foundational knowledge in mobile application development.
+
+Mcdonalds, Auckland, New Zealand	November 2024 – Present
+Kitchen Crew		
+
+Tasks and Responsibilities:
+Actively integrating into the New Zealand workforce while completing Master’s studies, demonstrating strong work ethic and adaptability.
+Maintaining high-speed service and accuracy in a fast-paced, high-pressure environment.
+Collaborating effectively within a diverse team to ensure operational efficiency and customer satisfaction.
+Key Skills
+
+MS Office: Word, Excel, PowerPoint, VBS, PowerBI, Outlook
+Analytics: RapidMiner, Microsoft PowerBI
+Programming: JavaScript (TypeScript, NodeJS, React, Redux, NextJS, NestJS, ExpressJS, AngularJS), Java, C/C++, Python, VBA/VBS
+Developmental and Tools: Git, Docker, CI/CD, Jenkins, Swagger, Postman, API (REST, GraphQL)
+AI: MeiliSearch (AI Driven Search Optimization), Replit, Lovable
+Databases: SQL, NoSQL, CosmosDB
+Cloud & DevOps: Microsoft Azure, Github Copilot, Automated CI/CD Pipelines
+Testing & Automation: WebDriverIO, JMeter, NewRelic, Test-Driven Development
+Others: Agile, Scrum, Adobe Experience Manager, Jira, Confluence, CRM, ERP, Dashboards and Analytics Tools
+
+Education and Qualifications
+
+Master’s in Applied Management				October 2024 - April 2026
+Major in Business Information Systems
+Future Skills Academy International, New Zealand
+
+Diploma in Bachelor of Science in Computer Science		June 2012 - July 2017
+University of Santo Tomas, Philippines
+
+Certifications
+
+Fundamentals Certification: AI Fundamentals, Datacamp			August 2025
+Microsoft Certified: Azure Fundamentals AZ-900, Microsoft Learn		August 2023
+Japanese Language Proficiency Test (JLPT) N4, The Japan Foundation		July 2023
+Korean 2, UP Diliman Department of Linguistics					July 2023
+AutoCAD Training, MFI Polytechnic Institute, Inc.				December 2018
+English Conversation Fluency 3, SpeechPower Cubao				December 2014
+
+References
+
+Available upon request
