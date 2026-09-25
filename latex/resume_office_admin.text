@@ -1,0 +1,194 @@
+%-------------------------
+% Resume in Latex
+% Author : Gielo
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[
+    pdftex,
+    colorlinks=true,
+    urlcolor=RoyalBlue,
+    linkcolor=RoyalBlue,
+    citecolor=RoyalBlue
+]{hyperref}
+\usepackage{fancyhdr}
+
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.375in}
+\addtolength{\evensidemargin}{-0.375in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titrule \vspace{-5pt}]
+
+\newcommand{\titrule}{\rule[0.5ex]{\linewidth}{1pt}}
+
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{: #2 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-4pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  CV STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \textbf{\Large Gielo Joseph Fernandez} & Email : \href{mailto:gielo0111@gmail.com}{gielo0111@gmail.com}\\
+  Auckland, New Zealand & Mobile : (+64) 22 153 5568 \\
+  \href{https://www.linkedin.com/in/gielojoseph}{linkedin.com/in/gielojoseph} | \href{https://github.com/gielo0111}{github.com/gielo0111} & Visa: Post Study Work Visa (Until May 2029)
+\end{tabular*}
+
+
+%-----------PROFESSIONAL SUMMARY-----------------
+\section{Professional Summary}
+  \resumeSubHeadingListStart
+    \item\small{
+  Highly organized and detail-oriented professional with 6+ years of experience in project coordination, client communication, documentation management, and office operations. Strong proficiency in MS Office (Word, Excel, PowerPoint, Outlook) with excellent written and verbal communication skills. Recently completed a Master of Applied Management in New Zealand with a focus on Business Information Systems. Proven ability to manage competing priorities, coordinate with cross-functional teams, and maintain professional documentation with exceptional attention to detail. Full NZ work rights until 2029. Available to start in 2 weeks.
+}
+  \resumeSubHeadingListEnd
+
+
+%-----------CORE COMPETENCIES-----------------
+\section{Core Competencies}
+  \resumeSubHeadingListStart
+    \item{
+      \textbf{Office Administration:} MS Office (Word, Excel, PowerPoint, Outlook), Document Management, Records Management, Correspondence, Scheduling, Calendar Management, Vendor Communication, Procurement Coordination
+    }
+    \item{
+      \textbf{Communication \& Coordination:} Professional Written \& Verbal Communication, Client \& Stakeholder Management, Cross-functional Team Coordination, Onboarding Support
+    }
+    \item{
+      \textbf{Organization \& Project Management:} Project Coordination, Task Prioritization, Meeting Facilitation, Attention to Detail, Data Accuracy, Problem-solving, Continuous Improvement
+    }
+    \item{
+  \textbf{Leadership \& Team Coordination:} Scrum Master, Meeting Facilitation, Sprint Planning, Agile Ceremonies, Team Coordination, Stakeholder Management, Project Planning, Task Prioritization
+}
+  \resumeSubHeadingListEnd
+
+
+%-----------PROFESSIONAL EXPERIENCE-----------------
+\section{Professional Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Orcas Consulting Ltd.}{Raglan, New Zealand}
+      {Software Engineer Intern}{Nov. 2025 -- Feb. 2026}
+      \resumeItemListStart
+        \resumeItem{Project Support}
+          {Supported project delivery through effective task coordination and clear communication. Documented processes and reported issues clearly for team collaboration.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+  {Manulife / John Hancock}{Makati, Philippines}
+  {Full Stack Software Engineer \& Scrum Master}{Aug. 2021 -- Sept. 2024}
+  \resumeItemListStart
+    \resumeItem{Team Coordination \& Scrum Master}
+      {Served as acting Scrum Master for a cross-functional team of 10+, facilitating sprint planning, daily stand-ups, sprint reviews, and retrospectives. Improved team delivery velocity and alignment through effective Agile ceremonies and clear communication. Managed team coordination and removed blockers to ensure timely delivery.}
+    \resumeItem{Coordination \& Communication}
+      {Managed stakeholder communications and client correspondence professionally. Coordinated cross-functional teams and facilitated meetings. Maintained organized documentation and records for internal processes.}
+    \resumeItem{Documentation \& Reporting}
+      {Prepared reports, presentations, and correspondence for stakeholders. Achieved 99.99\% data accuracy through meticulous attention to detail. Authored clear technical documentation for non-technical audiences.}
+    \resumeItem{Project Support}
+      {Supported project delivery through task coordination and timeline management. Collaborated with product management and support teams to translate requirements into solutions.}
+  \resumeItemListEnd
+
+    \resumeSubheading
+      {Denso Ten Solutions}{Pasig City, Philippines}
+      {Software Quality Engineer}{Aug. 2018 -- July 2021}
+      \resumeItemListStart
+        \resumeItem{Documentation \& Reporting}
+          {Authored comprehensive documentation and system configuration guides. Reduced troubleshooting times by 40\% through clear documentation. Organized and maintained test documentation, records, and quality reports.}
+        \resumeItem{Client Communication}
+          {Communicated with international clients and prepared technical reports in Japanese. Supported team onboarding through comprehensive training materials.}
+        \resumeItem{Quality Coordination}
+          {Managed defect tracking and reporting processes with clear documentation. Collaborated with cross-functional teams and participated in progress reporting.}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+%-----------ADDITIONAL EXPERIENCE-----------------
+\section{Additional Experience}
+  \resumeSubHeadingListStart
+    \item{
+      \textbf{McDonald's, Auckland} (Nov 2024 -- Present) - Part-time Team Member while completing Master's studies. Developed strong reliability, teamwork, and customer service skills in a fast-paced environment.
+    }
+  \resumeSubHeadingListEnd
+
+
+%-----------EDUCATION-----------------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Future Skills Academy International}{Auckland, New Zealand}
+      {Master of Applied Management; Major in Business Information Systems}{Oct. 2024 -- Apr. 2026}
+    \resumeSubheading
+      {University of Santo Tomas}{Manila, Philippines}
+      {Bachelor of Science in Computer Science}{June 2012 -- July 2017}
+  \resumeSubHeadingListEnd
+
+
+%--------CERTIFICATIONS & LANGUAGES------------
+\section{Certifications \& Languages}
+  \resumeSubHeadingListStart
+    \item{
+      \textbf{Certifications: } Microsoft Certified Azure Fundamentals AZ-900 (2023), Datacamp AI Fundamentals (2025)
+    }
+    \item{
+      \textbf{Languages: } English (Fluent), Tagalog(Native), Japanese (JLPT N4), Korean (Basic)
+    }
+  \resumeSubHeadingListEnd
+
+%--------REFERENCES-----------------
+\section*{}
+  \begin{center}
+    \small{References available upon request}
+  \end{center}
+
+\end{document}
